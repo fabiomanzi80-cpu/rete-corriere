@@ -1,0 +1,3 @@
+import { createClient } from "@supabase/supabaseE_ANON_KEY!;
+
+export const supabase = createClient(supabaseUrl, supabaseAnonKey);
